@@ -1,0 +1,1 @@
+ssh1. Connection: ssh hostname@location2. File transssion: scp [-r for dir] file hostname@location:file
